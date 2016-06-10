@@ -1,5 +1,6 @@
 #include "mex.h"
 #include "gpu/mxGPUArray.h"
+#include "cuda.h"
 
 /*
  * Device code
