@@ -1,0 +1,1 @@
+mex -v -largeArrayDims -lstdc++ -lc fmean.cu
